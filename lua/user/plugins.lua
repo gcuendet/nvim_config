@@ -49,6 +49,10 @@ return packer.startup(function(use)
   use { "numToStr/Comment.nvim", commit = "97a188a98b5a3a6f9b1b850799ac078faa17ab67" }
   use { "lewis6991/impatient.nvim", commit = "b842e16ecc1a700f62adb9802f8355b99b52a5a6" }
   use { "akinsho/bufferline.nvim", commit = "83bf4dc7bff642e145c8b4547aa596803a8b4dc4" }
+  use {
+  'lewis6991/gitsigns.nvim',
+  tag = 'release' -- To use the latest release (do not use this if you run Neovim nightly or dev builds!)
+  }
 
   -- Colorscheme
   -- use { "lunarvim/darkplus.nvim", commit = "13ef9daad28d3cf6c5e793acfc16ddbf456e1c83" }
