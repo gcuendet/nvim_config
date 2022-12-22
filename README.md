@@ -21,6 +21,7 @@ The plugin manager is [Packer](https://github.com/wbthomason/packer.nvim). It ge
 
 * [plenary](https://github.com/nvim-lua/plenary.nvim): Lua functions useful for many other plugins
 * [impatient](https://github.com/lewis6991/impatient.nvim): Speed up loading Lua modules in Neovim to improve startup time
+* [tmux.nvim](https://github.com/aserowy/tmux.nvim): Seemless navigation between nvim and tmux
 
 Appearance:
 * [bufferline](https://github.com/akinsho/bufferline.nvim): A buffer line for neovim
