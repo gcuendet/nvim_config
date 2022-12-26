@@ -29,6 +29,7 @@ Appearance:
 Colorscheme(s)
 * [Nord](ihttps://github.com/shaunsingh/nord.nvim): Neovim theme based off the [Nord](https://www.nordtheme.com) color palette
 
+Misc:
 * [Telescope](https://github.com/nvim-telescope/telescope.nvim): Fuzzy finder
 * [Tree-sitter](https://github.com/nvim-treesitter/nvim-treesitter): Parser generator tool and incremental parsing library, provides highlighting
 * [Comment](https://github.com/numToStr/Comment.nvim): Smart commenting plugin
