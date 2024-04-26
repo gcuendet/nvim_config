@@ -1,6 +1,8 @@
 local servers = {
-  "beancount",
-	"sumneko_lua",
+	"beancount",
+	"clangd",
+	"cmake",
+	"lua_ls",
 	"cssls",
 	"html",
 	"tsserver",
@@ -8,6 +10,7 @@ local servers = {
 	"bashls",
 	"jsonls",
 	"yamlls",
+	"kotlin-language-server",
 }
 
 local settings = {

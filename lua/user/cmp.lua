@@ -16,6 +16,7 @@ local check_backspace = function()
 end
 
 local kind_icons = {
+  Copilot = "",
 	Text = "",
 	Method = "",
 	Function = "",
@@ -108,6 +109,7 @@ cmp.setup({
 		end,
 	},
 	sources = {
+    { name = "copilot" },
 		{ name = "path" },
 		{ name = "nvim_lsp" },
 		{ name = "buffer" },
